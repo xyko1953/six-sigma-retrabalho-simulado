@@ -19,4 +19,4 @@ Base simulada para projeto DMAIC sobre retrabalho em linha metalmecânica (dados
 - Se enviar o CSV: separador `;`, decimal com vírgula, UTF-8.
 
 ## Autoria
-Francisco, [curso/instituição], 2026.
+Francisco, [Engenharia de Produção/UniFECAF, 2026.
